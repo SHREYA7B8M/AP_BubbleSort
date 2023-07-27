@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\bin\Debug\AP_BubbleSort.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\bin\Debug\AP_BubbleSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\bin\Debug\AP_BubbleSort.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\obj\Debug\AP_BubbleSort.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\obj\Debug\AP_BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\obj\Debug\AP_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\obj\Debug\AP_BubbleSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_BubbleSort\AP_BubbleSort\obj\Debug\AP_BubbleSort.pdb
